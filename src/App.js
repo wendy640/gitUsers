@@ -1,9 +1,10 @@
 import "./App.scss";
+import GithubUsers from "./components/GithubUsers";
 
 function App() {
   return (
     <div>
-      <h1>Hello World!!!</h1>
+    <GithubUsers/>
     </div>
   );
 }
