@@ -1,10 +1,11 @@
 import "./App.scss";
 import GithubUsers from "./components/GithubUsers";
+import Text from "./Text"
 
 function App() {
   return (
     <div>
-    <GithubUsers/>
+<GithubUsers/>
     </div>
   );
 }
